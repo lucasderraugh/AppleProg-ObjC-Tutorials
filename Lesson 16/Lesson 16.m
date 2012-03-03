@@ -8,8 +8,6 @@ int main (int argc, const char * argv[]) {
     NSLog(@"%lu", [rect retainCount]);
 	
 	[rect release];
-    
-    NSLog(@"%lu", [rect retainCount]);
 	
     [pool drain];
     return 0;

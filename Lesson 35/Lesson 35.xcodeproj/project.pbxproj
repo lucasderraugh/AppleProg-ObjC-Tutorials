@@ -125,7 +125,7 @@
 		1D1238E114D50D8900C98EA4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 			};
 			buildConfigurationList = 1D1238E414D50D8900C98EA4 /* Build configuration list for PBXProject "Lesson 35" */;
 			compatibilityVersion = "Xcode 3.2";

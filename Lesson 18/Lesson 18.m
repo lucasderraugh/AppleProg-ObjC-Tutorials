@@ -10,11 +10,11 @@ int main (int argc, const char * argv[]) {
 	[comp setChip:chip];
 	
 	[chip release];
+    
+    NSLog(@"%@", [comp chip]);
+    
     [comp release];
 	
-	NSLog(@"%@", [comp chip]);
-	
-	[comp release];
 	
     [pool drain];
     return 0;

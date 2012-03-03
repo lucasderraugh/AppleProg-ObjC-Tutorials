@@ -1,95 +1,0 @@
-TLesson 12
-v7
-r0
-t314344358.440916
-cCheck dependencies
-cProcessPCH "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 12_Prefix-guwfeyntbrlenedkjmyqsxuvbovr/Lesson 12_Prefix.pch.gch" "Lesson 12_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Lesson 12.build/Debug/Lesson 12.build/Objects-normal/x86_64/Lesson 12.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/Lesson 12" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004CAA740B00000000000000EE
-t1286239243
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C23AA0400000000000013E6
-t1277405700
-s5094
-
-N/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CD605D10000000000B3E910
-t1289094609
-s11790608
-
-N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m
-c000000004D0C4C2300000000000001A1
-t1292651555
-s417
-i<Foundation/Foundation.h>
-
-N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12_Prefix.pch
-c000000004D0C471900000000000000A0
-t1292650265
-s160
-i<Foundation/Foundation.h>
-
-N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/Lesson 12
-t1292651558
-s9424
-
-N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Objects-normal/x86_64/Lesson 12.LinkFileList
-c000000004D0C4C230000000000000092
-t1292651555
-s146
-
-N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Objects-normal/x86_64/Lesson 12.o
-t1292651558
-s8068
-
-N/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 12_Prefix-guwfeyntbrlenedkjmyqsxuvbovr/Lesson 12_Prefix.pch.gch
-t1292651557
-s41429776
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies314344355#314344355#0(0"0(0#1#0"3343187568374212096#0"0#
-
-CCompileC "build/Lesson 12.build/Debug/Lesson 12.build/Objects-normal/x86_64/Lesson 12.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s314344357.825560
-e314344358.052210
-r1
-xCompileC
-xbuild/Lesson 12.build/Debug/Lesson 12.build/Objects-normal/x86_64/Lesson 12.o
-x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m: In function 'main':
-o/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m:7: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
-lSLF07#2@87"Compile /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m314344357#314344358#0(291"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m: In function 'main':/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m:7: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'1(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'314344357#101#190#0(6@79"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m314344355#7#0#7#0#58"incompatible Objective-C types assigning '*', expected '*'0(0#0#79"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m8628799584#1843"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/DerivedSources" -include "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 12_Prefix-guwfeyntbrlenedkjmyqsxuvbovr/Lesson 12_Prefix.pch" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12.m" -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Objects-normal/x86_64/Lesson 12.o"0#
-
-CLd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/Lesson 12" normal x86_64
-s314344358.052331
-e314344358.440858
-r1
-xLd
-x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/Lesson 12
-xnormal
-xx86_64
-lSLF07#2@94"Link /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/Lesson 12314344358#314344358#0(0"0(0#0#0"8603900800#683"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug" -filelist "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Objects-normal/x86_64/Lesson 12.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/Lesson 12"0#
-
-CProcessPCH "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 12_Prefix-guwfeyntbrlenedkjmyqsxuvbovr/Lesson 12_Prefix.pch.gch" "Lesson 12_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s314344355.197168
-e314344357.825263
-r1
-xProcessPCH
-x/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 12_Prefix-guwfeyntbrlenedkjmyqsxuvbovr/Lesson 12_Prefix.pch.gch
-xLesson 12_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@31"Precompile Lesson 12_Prefix.pch314344355#314344357#0(0"0(0#0#88"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12_Prefix.pch3616707634443547648#1706"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/Lesson 12-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/build/Lesson 12.build/Debug/Lesson 12.build/DerivedSources" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 12/Lesson 12_Prefix.pch" -o "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 12_Prefix-guwfeyntbrlenedkjmyqsxuvbovr/Lesson 12_Prefix.pch.gch"0#
-

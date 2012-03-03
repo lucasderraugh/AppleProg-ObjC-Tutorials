@@ -121,6 +121,9 @@
 /* Begin PBXProject section */
 		1DCE26BB13949FB400ACCAB7 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
 			buildConfigurationList = 1DCE26BE13949FB400ACCAB7 /* Build configuration list for PBXProject "Lesson 27" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -229,6 +232,7 @@
 				1DCE26D413949FB400ACCAB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

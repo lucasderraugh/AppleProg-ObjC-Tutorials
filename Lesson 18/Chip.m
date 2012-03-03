@@ -16,8 +16,8 @@
 }
 
 - (void)dealloc {
+    NSLog(@"Memory, bye bye");
 	[super dealloc];
-	NSLog(@"Memory, bye bye");
 }
 
 @end
