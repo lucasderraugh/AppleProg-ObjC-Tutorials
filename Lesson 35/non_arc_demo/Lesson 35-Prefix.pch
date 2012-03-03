@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'non_arc_demo' target in the 'non_arc_demo' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

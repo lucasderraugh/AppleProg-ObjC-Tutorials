@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Lesson 22' target in the 'Lesson 22' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

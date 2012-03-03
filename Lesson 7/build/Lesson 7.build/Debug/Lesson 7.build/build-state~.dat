@@ -1,0 +1,129 @@
+TLesson 7
+v7
+r0
+t308092507.822929
+cCheck dependencies
+cProcessPCH "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 7_Prefix-fflrsvuweniywdgvcgqocsyautgw/Lesson 7_Prefix.pch.gch" "Lesson 7_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Lesson 7.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Rectangle.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/Lesson 7" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7.m
+c000000004CA6758E0000000000000114
+t1285977486
+s276
+i<Foundation/Foundation.h>
+i"Rectangle.h"
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7_Prefix.pch
+c000000004CA50AD7000000000000009E
+t1285884631
+s158
+i<Foundation/Foundation.h>
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.h
+c000000004C868D4A00000000000000F4
+t1283886410
+s244
+i<Cocoa/Cocoa.h>
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.m
+c000000004CA51CF70000000000000196
+t1285889271
+s406
+i"Rectangle.h"
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/Lesson 7
+t1286399707
+s11104
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Lesson 7.LinkFileList
+c000000004CACE6D7000000000000011D
+t1286399703
+s285
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Lesson 7.o
+t1286399707
+s7300
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Rectangle.o
+t1286399707
+s10320
+
+N/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 7_Prefix-fflrsvuweniywdgvcgqocsyautgw/Lesson 7_Prefix.pch.gch
+t1286399706
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308092503#308092503#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Lesson 7.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308092506.390432
+e308092507.406894
+r1
+xCompileC
+xbuild/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Lesson 7.o
+x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7.m308092506#308092507#0(0"0(0#0#77"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7.m8602464608#1810"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/DerivedSources" -include "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 7_Prefix-fflrsvuweniywdgvcgqocsyautgw/Lesson 7_Prefix.pch" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7.m" -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Lesson 7.o"0#
+
+CCompileC "build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Rectangle.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308092506.391794
+e308092507.407762
+r1
+xCompileC
+xbuild/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Rectangle.o
+x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.m308092506#308092507#0(0"0(0#0#78"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.m8602379072#1812"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/DerivedSources" -include "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 7_Prefix-fflrsvuweniywdgvcgqocsyautgw/Lesson 7_Prefix.pch" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Rectangle.m" -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Rectangle.o"0#
+
+CLd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/Lesson 7" normal x86_64
+s308092507.407824
+e308092507.822864
+r1
+xLd
+x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/Lesson 7
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/Lesson 7308092507#308092507#0(0"0(0#0#0"8601852640#674"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug" -filelist "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Objects-normal/x86_64/Lesson 7.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/Lesson 7"0#
+
+CProcessPCH "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 7_Prefix-fflrsvuweniywdgvcgqocsyautgw/Lesson 7_Prefix.pch.gch" "Lesson 7_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308092503.400706
+e308092506.390181
+r1
+xProcessPCH
+x/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 7_Prefix-fflrsvuweniywdgvcgqocsyautgw/Lesson 7_Prefix.pch.gch
+xLesson 7_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Lesson 7_Prefix.pch308092503#308092506#0(0"0(0#0#86"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7_Prefix.pch6860988216010568704#1677"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/Lesson 7-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/build/Lesson 7.build/Debug/Lesson 7.build/DerivedSources" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 7/Lesson 7_Prefix.pch" -o "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 7_Prefix-fflrsvuweniywdgvcgqocsyautgw/Lesson 7_Prefix.pch.gch"0#
+

@@ -1,0 +1,149 @@
+TLesson 20
+v7
+r0
+t319092749.589886
+cCheck dependencies
+cProcessPCH "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 20_Prefix-byyyqywkwiqgutghpiykobpyfscj/Lesson 20_Prefix.pch.gch" "Lesson 20_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/Lesson 20.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/NSString-Movies.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/Lesson 20" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20.m
+c000000004D54BFFB00000000000000EA
+t1297399803
+s234
+i<Foundation/Foundation.h>
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20_Prefix.pch
+c000000004D54BFFB00000000000000A0
+t1297399803
+s160
+i<Foundation/Foundation.h>
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.h
+c000000004D54C08A00000000000000E2
+t1297399946
+s226
+i<Cocoa/Cocoa.h>
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m
+c000000004D54C07D00000000000000DA
+t1297399933
+s218
+i"NSString-Movies.h"
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-URL.h
+c000000004D54C01D00000000000000D8
+t1297399837
+s216
+i<Cocoa/Cocoa.h>
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-URL.m
+c000000004D54C01D00000000000000CE
+t1297399837
+s206
+i"NSString-URL.h"
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/Lesson 20
+t1297399949
+s9400
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/Lesson 20.LinkFileList
+c000000004D54C08A000000000000012A
+t1297399946
+s298
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/Lesson 20.o
+t1297399949
+s7020
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/NSString-Movies.o
+t1297399949
+s5424
+
+N/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/NSString-URL.o
+t2
+s0
+
+N/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 20_Prefix-byyyqywkwiqgutghpiykobpyfscj/Lesson 20_Prefix.pch.gch
+t1297399949
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319092746#319092746#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/Lesson 20.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s319092749.178036
+e319092749.298197
+r1
+xCompileC
+xbuild/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/Lesson 20.o
+x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20.m319092749#319092749#0(0"0(0#0#79"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20.m7453301596785683456#1843"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/DerivedSources" -include "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 20_Prefix-byyyqywkwiqgutghpiykobpyfscj/Lesson 20_Prefix.pch" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20.m" -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/Lesson 20.o"0#
+
+CCompileC "build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/NSString-Movies.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s319092749.179455
+e319092749.481176
+r1
+xCompileC
+xbuild/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/NSString-Movies.o
+x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m:16: warning: incomplete implementation of category 'Movies'
+o/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m:16: warning: method definition for '-isAMovie' not found
+lSLF07#2@93"Compile /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m319092749#319092749#0(289"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m:16: warning: incomplete implementation of category 'Movies'/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m:16: warning: method definition for '-isAMovie' not found2(22@46"Incomplete implementation of category 'Movies'319092749#0#146#0(6@85"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m319092733#16#0#16#0#0"0(22@43"Method definition for '-isAMovie' not found319092749#146#143#0(6@85"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m319092733#16#0#16#0#35"method definition for '*' not found0(0#0#85"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m8597956608#1855"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/DerivedSources" -include "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 20_Prefix-byyyqywkwiqgutghpiykobpyfscj/Lesson 20_Prefix.pch" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-Movies.m" -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/NSString-Movies.o"0#
+
+CCompileC "build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/NSString-URL.o" "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/NSString-URL.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/Lesson 20" normal x86_64
+s319092749.481335
+e319092749.589824
+r1
+xLd
+x/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/Lesson 20
+xnormal
+xx86_64
+lSLF07#2@94"Link /Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/Lesson 20319092749#319092749#0(0"0(0#0#0"8607583264#683"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug" -filelist "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Objects-normal/x86_64/Lesson 20.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/Lesson 20"0#
+
+CProcessPCH "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 20_Prefix-byyyqywkwiqgutghpiykobpyfscj/Lesson 20_Prefix.pch.gch" "Lesson 20_Prefix.pch" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s319092746.727427
+e319092749.177767
+r1
+xProcessPCH
+x/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 20_Prefix-byyyqywkwiqgutghpiykobpyfscj/Lesson 20_Prefix.pch.gch
+xLesson 20_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Lesson 20_Prefix.pch319092746#319092749#0(0"0(0#0#88"/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20_Prefix.pch3472873921344402432#1706"    cd "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/Lesson 20-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Debug/include" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/build/Lesson 20.build/Debug/Lesson 20.build/DerivedSources" -c "/Users/lucasderraugh/Desktop/Objective-C Programming Tuts/Lesson 20/Lesson 20_Prefix.pch" -o "/var/folders/Lu/Luksm1nsFWyjZRZ9bGVJ4U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lesson 20_Prefix-byyyqywkwiqgutghpiykobpyfscj/Lesson 20_Prefix.pch.gch"0#
+

@@ -1,0 +1,161 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1DD3CD33126B7ED6007765FA /* Lesson 9 */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* Lesson 9 */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* Lesson 9 */,
+		);
+		codeSenseManager = 1DD3CD41126B7EE7007765FA /* Code sense */;
+		executables = (
+			1DD3CD33126B7ED6007765FA /* Lesson 9 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					737,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314664572;
+			PBXWorkspaceStateSaveDate = 314664572;
+		};
+		perUserProjectItems = {
+			1DA9306312C18E1A0005B87D /* PBXTextBookmark */ = 1DA9306312C18E1A0005B87D /* PBXTextBookmark */;
+			1DBA0AC512729E2400776475 /* PBXTextBookmark */ = 1DBA0AC512729E2400776475 /* PBXTextBookmark */;
+			1DD3CD57126B83F2007765FA /* PBXTextBookmark */ = 1DD3CD57126B83F2007765FA /* PBXTextBookmark */;
+			1DD3CD78126B8D0D007765FA /* PBXTextBookmark */ = 1DD3CD78126B8D0D007765FA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1DD3CD40126B7EE7007765FA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* Lesson 9.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 334}}";
+			sepNavSelRange = "{346, 0}";
+			sepNavVisRange = "{0, 382}";
+		};
+	};
+	1DA9306312C18E1A0005B87D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Lesson 9.m */;
+		name = "Lesson 9.m: 10";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	1DBA0AC512729E2400776475 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* Lesson 9.m */;
+		name = "Lesson 9.m: 9";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	1DD3CD33126B7ED6007765FA /* Lesson 9 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Lesson 9";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1DD3CD40126B7EE7007765FA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1DD3CD41126B7EE7007765FA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1DD3CD57126B83F2007765FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* Lesson 9_Prefix.pch */;
+		name = "Lesson 9_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 158;
+		vrLoc = 0;
+	};
+	1DD3CD78126B8D0D007765FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1DD3CD79126B8D0D007765FA /* NSArray.h */;
+		name = "NSArray.h: 17";
+		rLen = 0;
+		rLoc = 460;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 75;
+	};
+	1DD3CD79126B8D0D007765FA /* NSArray.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSArray.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSArray.h;
+		sourceTree = "<absolute>";
+	};
+	32A70AAB03705E1F00C91783 /* Lesson 9_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922.903, 352}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 158}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* Lesson 9 */ = {
+		activeExec = 0;
+		executables = (
+			1DD3CD33126B7ED6007765FA /* Lesson 9 */,
+		);
+	};
+}
