@@ -1,9 +1,6 @@
 #import <Foundation/Foundation.h>
 
-@interface Rectangle : NSObject <NSCoding> {
-	int height;
-	int width;
-}
+@interface Rectangle : NSObject <NSCoding>
 
 @property int height;
 @property int width;

@@ -15,7 +15,9 @@ int main (int argc, const char * argv[])
     NSArray *array = [NSArray arrayWithObjects:rect1, rect2, nil];
     NSData *data = [NSKeyedArchiver archivedDataWithRootObject:array];
     
-    NSArray *arrayFromData = [NSKeyedUnarchiver unarchiveObjectWithData:data];
+    [data writeToFile:@"/Users/lucasderraugh/Desktop/file.txt" atomically:YES];
+    NSData *newData = [[NSData alloc] initWithContentsOfFile:@"/Users/lucasderraugh/Desktop/file.txt"];
+    NSArray *arrayFromData = [NSKeyedUnarchiver unarchiveObjectWithData:newData];
     NSLog(@"%@", arrayFromData);
     
     
