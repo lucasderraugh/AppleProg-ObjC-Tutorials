@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		1D8CA53B15F3BA1D0044865F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D8CA53A15F3BA1D0044865F /* Foundation.framework */; };
 		1D8CA53E15F3BA1D0044865F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8CA53D15F3BA1D0044865F /* main.m */; };
-		1D8CA54215F3BA1D0044865F /* Lesson_40.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1D8CA54115F3BA1D0044865F /* Lesson_40.1 */; };
 		1D8CA54A15F3BA820044865F /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D8CA54915F3BA820044865F /* Person.m */; };
 /* End PBXBuildFile section */
 
@@ -20,7 +19,6 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				1D8CA54215F3BA1D0044865F /* Lesson_40.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -31,7 +29,6 @@
 		1D8CA53A15F3BA1D0044865F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D8CA53D15F3BA1D0044865F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1D8CA54015F3BA1D0044865F /* Lesson 40-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lesson 40-Prefix.pch"; sourceTree = "<group>"; };
-		1D8CA54115F3BA1D0044865F /* Lesson_40.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Lesson_40.1; sourceTree = "<group>"; };
 		1D8CA54815F3BA820044865F /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		1D8CA54915F3BA820044865F /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,7 +76,6 @@
 				1D8CA53D15F3BA1D0044865F /* main.m */,
 				1D8CA54815F3BA820044865F /* Person.h */,
 				1D8CA54915F3BA820044865F /* Person.m */,
-				1D8CA54115F3BA1D0044865F /* Lesson_40.1 */,
 				1D8CA53F15F3BA1D0044865F /* Supporting Files */,
 			);
 			path = "Lesson 40";
@@ -119,7 +115,7 @@
 		1D8CA52D15F3BA1D0044865F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0440;
+				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Lucas Derraugh";
 			};
 			buildConfigurationList = 1D8CA53015F3BA1D0044865F /* Build configuration list for PBXProject "Lesson 40" */;
@@ -156,7 +152,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -184,7 +179,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -238,6 +232,7 @@
 				1D8CA54715F3BA1D0044865F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

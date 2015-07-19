@@ -10,7 +10,6 @@
 		1DC2B8131604F82D0030D105 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC2B8121604F82D0030D105 /* Person.m */; };
 		1DEFC9B01604F21A00CE5DC4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DEFC9AF1604F21A00CE5DC4 /* Foundation.framework */; };
 		1DEFC9B31604F21A00CE5DC4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DEFC9B21604F21A00CE5DC4 /* main.m */; };
-		1DEFC9B71604F21A00CE5DC4 /* Lesson_41.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1DEFC9B61604F21A00CE5DC4 /* Lesson_41.1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -20,7 +19,6 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				1DEFC9B71604F21A00CE5DC4 /* Lesson_41.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -33,7 +31,6 @@
 		1DEFC9AF1604F21A00CE5DC4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1DEFC9B21604F21A00CE5DC4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1DEFC9B51604F21A00CE5DC4 /* Lesson 41-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lesson 41-Prefix.pch"; sourceTree = "<group>"; };
-		1DEFC9B61604F21A00CE5DC4 /* Lesson_41.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Lesson_41.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +76,6 @@
 				1DEFC9B21604F21A00CE5DC4 /* main.m */,
 				1DC2B8111604F82D0030D105 /* Person.h */,
 				1DC2B8121604F82D0030D105 /* Person.m */,
-				1DEFC9B61604F21A00CE5DC4 /* Lesson_41.1 */,
 				1DEFC9B41604F21A00CE5DC4 /* Supporting Files */,
 			);
 			path = "Lesson 41";
@@ -119,7 +115,7 @@
 		1DEFC9A21604F21A00CE5DC4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0440;
+				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Lucas Derraugh";
 			};
 			buildConfigurationList = 1DEFC9A51604F21A00CE5DC4 /* Build configuration list for PBXProject "Lesson 41" */;
@@ -156,7 +152,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -184,7 +179,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;

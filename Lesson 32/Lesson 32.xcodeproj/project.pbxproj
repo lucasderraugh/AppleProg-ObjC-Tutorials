@@ -31,7 +31,6 @@
 		1DA4DA7713D8E55A00F33138 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1DA4DA7A13D8E55A00F33138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1DA4DA7D13D8E55A00F33138 /* Lesson 32-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lesson 32-Prefix.pch"; sourceTree = "<group>"; };
-		1DA4DA7E13D8E55A00F33138 /* Lesson_32.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Lesson_32.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				1DA4DA7A13D8E55A00F33138 /* main.m */,
-				1DA4DA7E13D8E55A00F33138 /* Lesson_32.1 */,
 				1D3FAF7313DDE246000AEE33 /* Rectangle.h */,
 				1D3FAF7413DDE246000AEE33 /* Rectangle.m */,
 				1DA4DA7C13D8E55A00F33138 /* Supporting Files */,
@@ -117,7 +115,7 @@
 		1DA4DA6A13D8E55A00F33138 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0640;
 			};
 			buildConfigurationList = 1DA4DA6D13D8E55A00F33138 /* Build configuration list for PBXProject "Lesson 32" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -157,8 +155,11 @@
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
@@ -183,8 +184,11 @@
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
